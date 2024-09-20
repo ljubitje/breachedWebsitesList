@@ -17,8 +17,8 @@ We will (play-pretend) track the breach of (made up) normalshop-bwl.com. All dom
 We prepared an emailserver at ourserver-bwl.org where we can read incoming mail.  
 The normalshop-bwl.com is a legitimate web store.  
 1 We register a regular user account at normalshop-bwl.com with email 4w7792w4qpmiyzeh@ourserver-bwl.org.  
-This email was not used anywhere else! Only the normalshop-bwl.com and us know it.  
+  This email was not used anywhere else! Only the normalshop-bwl.com and us know it.  
 2 We receive mail from penisenlargementpump@spammer-bwl.net.  
-This is a spam email. It contains no references to normalshop-bwl.com. We know nothing about the spammer-bwl.net domain.  
+  This is a spam email. It contains no references to normalshop-bwl.com. We know nothing about the spammer-bwl.net domain.  
 3 The mail was sent to 4w7792w4qpmiyzeh@ourserver-bwl.org, therefore it must have been acquired from normalshop-bwl.com.  
 4 Sender is not normalshop-bwl.com, therefore the normalshop-bwl.com was breached.
